@@ -24,6 +24,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.expand
     - navigation.top
     - search.highlight
@@ -63,6 +64,7 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Notas Fiscais:
+      - nota-fiscal/index.md
       - Nota Fiscal (NF-e):
           - Visão Geral: nota-fiscal/nfe/index.md
           - Nota Fiscal de Estorno: nota-fiscal/nfe/nota-fiscal-estorno.md
