@@ -22,6 +22,7 @@ theme:
         icon: material/brightness-4
         name: Modo claro
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -30,6 +31,9 @@ theme:
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search:
@@ -90,4 +94,4 @@ nav:
   - Fiscal: fiscal/index.md
   - Produção: producao/index.md
   - API: api/index.md
-  - Suporte: suporte/index.md
+#   - Suporte: suporte/index.md
