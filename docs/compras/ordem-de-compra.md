@@ -13,22 +13,32 @@ Abaixo explicação do funcionamento:
 
 1 – Liberar acesso a ordem de compra.
 
+![Imagem](../assets/compras/image1.png)
+
 2 – No menu Entradas → Ordem de compra. Tenha acesso a tela.
+
+![Imagem](../assets/compras/image2.png)
 
 3 – Após abrir a tela e clicar em novo, preenche os dados que for necessário do quadro em vermelho e clique em “Salvar e editar itens” para incluir os itens da ordem de compra.
 
-4 – Inclua item a item e clique em salvar.
+![Imagem](../assets/compras/image3.png)
 
-5 – Após os itens incluídos, na barra superior, pode ser incluído “Complementos” ou gerar “Ordem de compra”
+![Imagem](../assets/compras/image4.png)
+
+![Imagem](../assets/compras/image5.png)
 
 6 – Imprimir, Salvar ou Enviar Ordem de Compra para seu fornecedor.
 
-7 – Na opção de envio, será apresentado a tela de envio por e-mail, onde pode ser ajustado o endereço do destinatário, assunto e texto.
+![Imagem](../assets/compras/image6.png)
+
+![Imagem](../assets/compras/image7.png)
 
 8 – Baixa de ordem de compra.
 
 Baixar por XML: Ao receber o XML e importar no menu, Entradas → NF Fornecedor. E no item do XML for enviado no xPed o número da Ordem de compra enviado pelo sistema e no nItemPed o número do item, será feita a baixa automática.
 
-Ou pode ser alterado o status com o Direito do Mouse conforme print abaixo:
+![Imagem](../assets/compras/image8.png)
+
+![Imagem](../assets/compras/image9.png)
 
 Ou pode ser utilizado o botão “Encerrar” para registrar como finalizada.

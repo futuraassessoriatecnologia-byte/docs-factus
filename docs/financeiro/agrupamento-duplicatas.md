@@ -4,10 +4,10 @@ Como agrupar duplicatas
 
 2 – Aperte Ctrl e clique em cada duplicata, ela ficaram selecionadas igual a tela abaixo:
 
-3 – O último item selecionado vai ser o principal, apresentado na seta da esquerda
+![Imagem](../assets/financeiro/image1.png)
 
 4 – Clique com o direito do mouse, e selecione a opção Agrupar.
 
-5 – Após agrupado, será apresentado o valor agrupado, e na parte inferior vai mostrar as duplicatas agrupadas… Então sempre vai aparecer a Pai e as Filhas vão ficar como desativadas.
+![Imagem](../assets/financeiro/image2.png)
 
-6 – Clique com o direito do mouse e escolha Cancelar agrupamentos duplicata, para desfazer.
+![Imagem](../assets/financeiro/image3.png)

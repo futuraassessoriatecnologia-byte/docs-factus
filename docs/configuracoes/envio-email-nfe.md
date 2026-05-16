@@ -1,14 +1,20 @@
 Configuração envio de e-mail na autorização da Nfe.
 
-1 – No menu de Ferramentas - > Parametrizações, pesquise por “e-mail”.
+![Imagem](../assets/configuracoes/image1.png)
 
 Confirme se esta ativado, e ative se estiver desmarcado e salve.
 
+![Imagem](../assets/configuracoes/image2.png)
+
 2 – Na mesma tela clique em “Configurações NF-e”
+
+![Imagem](../assets/configuracoes/image3.png)
 
 Será aberto o monitor
 
-Agora necessário realizar as configurações da conta de e-mail, campos destacados abaixo, após preenchido clique em “Testar configuração” e verifique o e-mail recebido.
+![Imagem](../assets/configuracoes/image4.png)
+
+![Imagem](../assets/configuracoes/image5.png)
 
 3 - Agora revisar os dados da mensagem que será enviada em cada e-mail e clique em salvar.
 
@@ -17,7 +23,7 @@ Agora necessário realizar as configurações da conta de e-mail, campos destaca
 [EmitNome], [EmitFantasia], [EmitCNPJCPF], [EmitIE], [DestNome], [DestCNPJCPF], [DestIE], [ChaveNFe],
 [SerieNF], [NumeroNF], [ValorNF], [dtEmissao], [dtSaida], [hrSaida]
 
-Sugestão assunto:
+![Imagem](../assets/configuracoes/image6.png)
 
 NF-e [NumeroNF] - [SerieNF] - [EmitNome] ([EmitCNPJCPF])  XML e DANFE anexos
 
