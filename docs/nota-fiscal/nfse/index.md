@@ -1,4 +1,4 @@
-# Nota Fiscal de Serviço Eletrônica (NFS-e)
+﻿# Nota Fiscal de Serviço Eletrônica (NFS-e)
 
 Módulo responsável pela emissão e gestão de Notas Fiscais de Serviço Eletrônicas.
 

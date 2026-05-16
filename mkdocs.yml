@@ -62,22 +62,22 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Nottas Fiscais:
-      - Nota Fiscal: nfe/index.md
-      - Nota Fiscal de Serviço: nfse/index.md
+  - Notas Fiscais:
+      - Nota Fiscal (NF-e):
+          - Visão Geral: nota-fiscal/nfe/index.md
+          - Nota Fiscal de Estorno: nota-fiscal/nfe/nota-fiscal-estorno.md
+          - Nota Fiscal de Complemento ou Ajuste: nota-fiscal/nfe/nota-fiscal-complemento-ajuste.md
+          - Nota Fiscal de Exportação: nota-fiscal/nfe/nota-fiscal-exportacao.md
+          - Nota Fiscal de Devolução: nota-fiscal/nfe/nota-fiscal-devolucao.md
+          - Nota Fiscal de Devolução (Fornecedor): nota-fiscal/nfe/nota-fiscal-devolucao-fornecedor.md
+      - Nota Fiscal de Serviço (NFS-e):
+          - Visão Geral: nota-fiscal/nfse/index.md
+          - Ajustes NFS-e: nota-fiscal/nfse/ajustes-nfse.md
   - Financeiro:
       - Visão Geral: financeiro/index.md
       - Conciliação Bancária:
           - Regras de Conciliação: financeiro/conciliacao-bancaria/regras-conciliacao.md
       - Agrupamento de Duplicatas: financeiro/agrupamento-duplicatas.md
-  - NF-e:
-      - Nota Fiscal de Estorno: nfe/nota-fiscal-estorno.md
-      - Nota Fiscal de Complemento ou Ajuste: nfe/nota-fiscal-complemento-ajuste.md
-      - Nota Fiscal de Exportação: nfe/nota-fiscal-exportacao.md
-      - Nota Fiscal de Devolução: nfe/nota-fiscal-devolucao.md
-      - Nota Fiscal de Devolução (Fornecedor): nfe/nota-fiscal-devolucao-fornecedor.md
-  - NFS-e:
-      - Ajustes NFS-e: nfse/ajustes-nfse.md
   - Compras:
       - Visão Geral: compras/index.md
       - Ordem de Compra: compras/ordem-de-compra.md

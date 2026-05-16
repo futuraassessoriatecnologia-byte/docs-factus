@@ -1,4 +1,4 @@
-# Nota Fiscal Eletrônica (NF-e)
+﻿# Nota Fiscal Eletrônica (NF-e)
 
 Módulo responsável pela emissão e gestão de Notas Fiscais Eletrônicas.
 

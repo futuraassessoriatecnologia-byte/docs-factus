@@ -1,20 +1,20 @@
-Como gerar uma nota fiscal de Estorno
+﻿Como gerar uma nota fiscal de Estorno
 
 Com o direito do mouse, clique no menu replicar, e em seguida na opção “Replicar para nota fiscal de estorno”,
 
-![Imagem](../assets/nfe/image1.png)
+![Imagem](../../assets/nfe/image1.png)
 
 Aceite a opção abaixo, a nota estornada deve ser uma nota autorizada onde a tentativa de cancelar ultrapassou as 24 horas e o Sefaz rejeitou o cancelamento.
 
-![Imagem](../assets/nfe/image2.png)
+![Imagem](../../assets/nfe/image2.png)
 
 Em seguida informa a justificativa.
 
-![Imagem](../assets/nfe/image3.png)
+![Imagem](../../assets/nfe/image3.png)
 
 Após informado e confirmado no OK, será gerado um novo documento, que deve ser aberto na tela de outras operações, ou se já estiver vai abri direto a opção de encerrar.
 
-![Imagem](../assets/nfe/image4.png)
+![Imagem](../../assets/nfe/image4.png)
 
 Execute o processo normal de encerramento até autorizar a nota fiscal.
 
