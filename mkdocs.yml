@@ -86,13 +86,8 @@ nav:
       - Envio de E-mail NF-e: configuracoes/envio-email-nfe.md
       - Certificado Digital: configuracoes/certificado-digital.md
       - Parâmetro Pedidos de Saída: configuracoes/parametro-pedidos-saida.md
-  - Estoque:
-      - Visão Geral: estoque/index.md
-  - Fiscal:
-      - Visão Geral: fiscal/index.md
-  - Produção:
-      - Visão Geral: producao/index.md
-  - API:
-      - Visão Geral: api/index.md
-  - Suporte:
-      - Visão Geral: suporte/index.md
+  - Estoque: estoque/index.md
+  - Fiscal: fiscal/index.md
+  - Produção: producao/index.md
+  - API: api/index.md
+  - Suporte: suporte/index.md
