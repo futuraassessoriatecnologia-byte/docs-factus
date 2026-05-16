@@ -62,6 +62,9 @@ markdown_extensions:
 
 nav:
   - Início: index.md
+  - Nottas Fiscais:
+      - Nota Fiscal: nfe/index.md
+      - Nota Fiscal de Serviço: nfse/index.md
   - Financeiro:
       - Visão Geral: financeiro/index.md
       - Conciliação Bancária:
