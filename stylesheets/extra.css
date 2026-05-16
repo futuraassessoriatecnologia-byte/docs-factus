@@ -1,0 +1,41 @@
+/* Header e tabs com a mesma cor do fundo da página */
+
+/* Modo claro */
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+[data-md-color-scheme="default"] .md-header__title,
+[data-md-color-scheme="default"] .md-tabs__link,
+[data-md-color-scheme="default"] .md-header__button {
+  color: #1a1a1a;
+}
+
+[data-md-color-scheme="default"] .md-tabs__link--active,
+[data-md-color-scheme="default"] .md-tabs__link:hover {
+  color: #3f51b5;
+  border-bottom: 2px solid #3f51b5;
+}
+
+/* Modo escuro */
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  background-color: #1e1e2e;
+  color: #e0e0e0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+
+[data-md-color-scheme="slate"] .md-header__title,
+[data-md-color-scheme="slate"] .md-tabs__link,
+[data-md-color-scheme="slate"] .md-header__button {
+  color: #e0e0e0;
+}
+
+[data-md-color-scheme="slate"] .md-tabs__link--active,
+[data-md-color-scheme="slate"] .md-tabs__link:hover {
+  color: #7986cb;
+  border-bottom: 2px solid #7986cb;
+}
