@@ -61,6 +61,8 @@ nav:
   - Início: index.md
   - Financeiro:
       - Visão Geral: financeiro/index.md
+      - Conciliação Bancária:
+          - Regras de Conciliação: financeiro/conciliacao-bancaria/regras-conciliacao.md
   - Fiscal:
       - Visão Geral: fiscal/index.md
   - Estoque:
