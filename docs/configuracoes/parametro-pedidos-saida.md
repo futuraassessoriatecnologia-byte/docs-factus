@@ -1,0 +1,1 @@
+Ativar Parâmetro para permitir gerar mais pedidos de saída para mesma nota
