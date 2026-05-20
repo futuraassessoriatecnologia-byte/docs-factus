@@ -46,9 +46,13 @@ Clique em **Novo (F2)** e preencha:
 
 Os campos do grupo **Parâmetros** mudam conforme a **Ação** selecionada (ver [Visibilidade de campos](#visibilidade-de-campos)).
 
+![Parâmetros da ação preenchidos conforme o tipo selecionado](img4.png)
+
 ### 4. Aplicar as regras
 
 Salve a regra, volte para a Conciliação Bancária e clique em **"Aplicar Regras"**. O sistema percorre todos os itens com situação **Pendente** e aplica a primeira regra que bater em cada um. Ao final, exibe um resumo com o total conciliado.
+
+![Resultado após aplicar as regras com resumo dos registros conciliados](img5.png)
 
 !!! info
     O botão **Aplicar Regras** só fica habilitado quando há um item OFX selecionado na tela.
