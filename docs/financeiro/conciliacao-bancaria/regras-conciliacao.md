@@ -11,6 +11,8 @@ As regras de conciliação permitem automatizar a classificação de transaçõe
 
 **Financeiro → Conciliação Bancária → botão "Regras de Conciliação"** na toolbar
 
+![Toolbar da Conciliação Bancária com os botões Regras de Conciliação e Aplicar Regras destacados](img1.png)
+
 ---
 
 ## Fluxo de uso
@@ -19,9 +21,13 @@ As regras de conciliação permitem automatizar a classificação de transaçõe
 
 Na tela de Conciliação Bancária, selecione o item pendente no grid e copie o texto da coluna **Histórico** (`Ctrl+C`). Use esse texto como **Texto de Busca** na regra para garantir que ela bata com precisão.
 
+![Grid de itens OFX mostrando a coluna Histórico e a situação dos lançamentos](img2.png)
+
 ### 2. Criar uma nova regra
 
 Clique em **Novo (F2)** e preencha:
+
+![Tela de cadastro de regra com campos preenchidos e dropdown de Ação aberto](img3.png)
 
 | Campo | Descrição |
 |-------|-----------|
