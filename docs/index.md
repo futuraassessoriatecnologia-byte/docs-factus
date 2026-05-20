@@ -5,7 +5,7 @@ Bem-vindo à documentação oficial do **Factus ERP**.
 Aqui você encontra guias funcionais, referências técnicas e instruções para todos os módulos do sistema.
 
 ---
-
+<!-- 
 ## Módulos disponíveis
 
 | Módulo | Descrição |
@@ -16,7 +16,7 @@ Aqui você encontra guias funcionais, referências técnicas e instruções para
 | [Compras](compras/index.md) | Pedidos, cotações, fornecedores |
 | [Produção](producao/index.md) | Ordens de produção, apontamentos, produtividade |
 | [API](api/index.md) | Integrações, endpoints, autenticação |
-| [Suporte](suporte/index.md) | FAQ, erros comuns, contato |
+| [Suporte](suporte/index.md) | FAQ, erros comuns, contato | -->
 
 ---
 
