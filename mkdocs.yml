@@ -2,8 +2,6 @@ site_name: Factus ERP — Documentação
 site_description: Documentação técnica e funcional do sistema Factus ERP
 site_author: Equipe Factus
 site_url: https://futuraassessoriatecnologia-byte.github.io/docs-factus
-repo_url: https://github.com/futuraassessoriatecnologia-byte/docs-factus
-repo_name: futuraassessoriatecnologia-byte/docs-factus
 
 theme:
   name: material
