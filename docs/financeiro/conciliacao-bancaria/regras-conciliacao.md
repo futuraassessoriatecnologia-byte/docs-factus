@@ -151,6 +151,7 @@ Quando mais de uma regra poderia bater no mesmo lançamento, o campo **Ordem** d
 
 ---
 
+<!-- 
 ??? note "Referência técnica"
 
     ### Constantes (`uCadRegraConciliacao.pas`)
@@ -185,3 +186,4 @@ Quando mais de uma regra poderia bater no mesmo lançamento, o campo **Ordem** d
     | `FPG_CODIGO` | INTEGER FK | Forma de Pagamento |
     | `PES_CODIGO` | INTEGER FK | Parceiro padrão |
     | `CNC_CODIGO` | INTEGER FK | Centro de Custo |
+-->
