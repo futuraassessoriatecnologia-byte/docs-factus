@@ -64,3 +64,7 @@ nav:
   - Financeiro:
       - Conciliação Bancária:
           - Regras de Conciliação: financeiro/conciliacao-bancaria/regras-conciliacao.md
+  - Estoque:
+      - Inventário de Estoque: estoque/inventario/inventario.md
+  - Compras:
+      - Ordem de Compra: compras/ordem-de-compra.md
