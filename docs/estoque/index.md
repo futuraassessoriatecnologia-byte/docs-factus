@@ -7,7 +7,7 @@ Módulo responsável pelo controle de produtos, entradas e saídas.
 - Cadastro de produtos
 - Entradas e saídas
 - Inventário
-- Rastreabilidade por lote
+- [Rastreabilidade por lote](controle-lote/index.md)
 - Relatórios de movimentação
 
 !!! info "Em construção"

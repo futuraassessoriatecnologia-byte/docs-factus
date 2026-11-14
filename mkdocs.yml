@@ -66,5 +66,17 @@ nav:
           - Regras de Conciliação: financeiro/conciliacao-bancaria/regras-conciliacao.md
   - Estoque:
       - Inventário de Estoque: estoque/inventario/inventario.md
+      - Controle de Lote e Validade:
+          - Visão Geral: estoque/controle-lote/index.md
+          - Habilitando o Controle de Lote: estoque/controle-lote/habilitando.md
+          - Tela Lotes de Produto: estoque/controle-lote/lotes-de-produto.md
+          - Relatórios de Lote: estoque/controle-lote/relatorios.md
+          - Entrada por NF de Compra: estoque/controle-lote/nf-compra.md
+          - Saída por NF de Venda: estoque/controle-lote/nf-venda.md
+          - Ordem de Produção: estoque/controle-lote/ordem-producao.md
+          - Rastreabilidade no XML: estoque/controle-lote/xml-nfe-rastro.md
+  - Nota Fiscal:
+      - NF-e:
+          - Encerrar Nota Fiscal (Saída): nota-fiscal/nfe/encerramento-nota-fiscal.md
   - Compras:
       - Ordem de Compra: compras/ordem-de-compra.md
